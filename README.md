@@ -30,6 +30,6 @@ Here are some ideas to get you started:
  For collaboration and discussions you can reach out to me on :
 - [LinkedIn](https://www.linkedin.com/in/amirymax)
 - [Instagram](https://instagram.com/amirilifee)
-- [Instagram](https://t.me/aj_corp)
+- [Telegram](https://t.me/aj_corp)
 
 Feel free to explore my projects and contributions in the repositories below.
