@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 # 👨‍💻 About Me
 
 
-## 🔧 Skills                                  ## 📫 Contact
+## 🔧 Skills                                  
 
-- 💻 Python: Professional                         For collaboration and discussions you can reach out to me on :
+- 💻 Python: Professional                         
 - 📡 Telegram Bots: Developer
 - 🤖 AI Development: Python
 - ☕ Java: Proficient
 - 🖋️ C++: Proficient
 
 
+## 📫 Contact
 
  For collaboration and discussions you can reach out to me on :
 - [LinkedIn](https://www.linkedin.com/in/amirymax)
