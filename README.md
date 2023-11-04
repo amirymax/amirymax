@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/amirymax" target="blank"><img src="https://img.shields.io/twitter/follow/amirymax?logo=twitter&style=for-the-badge" alt="amirymax" /></a> </p>
 
-- 🔭 I’m currently working on [The AJ, my pet project about AI](https://github.com/amirymax/The_AJ)
+- 🔭 I’m currently working on [The AJ](https://github.com/amirymax/The_AJ), my pet project about AI
 
 - 🌱 I’m currently learning **Machine Learning on Python, JavaScript for University**
 
-- 📝 I regularly write articles on [https://t.me/amirilifee](t.me/amirilifee)
+- 📝 I regularly write articles on [Amirilifee](https://t.me/amirilifee)
 
 - 💬 Ask me about **Python, Aiogram, Leetcode**
 
