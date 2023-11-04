@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **amirymax@mail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lw02K9GLcXQR8VuLg4g5uuWnHnib6CyM/view?usp=sharing](https://drive.google.com/file/d/1lw02K9GLcXQR8VuLg4g5uuWnHnib6CyM/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1lw02K9GLcXQR8VuLg4g5uuWnHnib6CyM/view?usp=sharing)
 
 - ⚡ Fun fact **I am a blogger and Stand Up Comedy**
 
