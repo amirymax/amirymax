@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👨‍💻 About Me
+
+![📷 Profile Picture](profile_picture.jpg)
+
+
+## 🔧 Skills
+
+- 💻 Python: Professional
+- 📡 Telegram Bots: Developer
+- 🤖 AI Development: Python
+- ☕ Java: Proficient
+- 🖋️ C++: Proficient
+
+## 📫 Contact
+
+ For collaboration and discussions you can reach out to me on :
+- [LinkedIn](https://www.linkedin.com/in/amirymax)
+- [Instagram](https://instagram.com/amirilifee)
+- [Instagram](https://t.me/aj_corp)
+
+Feel free to explore my projects and contributions in the repositories below.
