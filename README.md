@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning on Python, JavaScript for University**
 
-- 📝 I regularly write articles on [t.me/amirilifee](t.me/amirilifee)
+- 📝 I regularly write articles on [https://t.me/amirilifee](t.me/amirilifee)
 
 - 💬 Ask me about **Python, Aiogram, Leetcode**
 
