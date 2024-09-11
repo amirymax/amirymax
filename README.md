@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amiri</h1>
-<h3 align="left">- 3rd-year Bachelor's student at ITMO University, specializing in Computer Science and Programming.<br>
-  - Residence: Based in the beautiful city of Saint Petersburg, Russia.</h3>
+<!-- <h3 align="left">- 3rd-year Bachelor's student at ITMO University, specializing in Computer Science and Programming.<br> -->
+  <h3></h3> Residence: Based in the beautiful city of Saint Petersburg, Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirymax&label=Profile%20views&color=0e75b6&style=flat" alt="amirymax" /> </p>
 
