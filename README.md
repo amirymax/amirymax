@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/amirymax" target="blank"><img src="https://img.shields.io/twitter/follow/amirymax?logo=twitter&style=for-the-badge" alt="amirymax" /></a> </p>
 
-- 🔭 I’m currently working on [The AJ](https://github.com/amirymax/The_AJ), my pet project about AI
+- 🔭 I’m currently working on [BeBetter](https://github.com/amirymax/BeBetter), my pet project about AI
 
 - 🌱 I’m currently learning **Machine Learning on Python, JavaScript for University**
 
