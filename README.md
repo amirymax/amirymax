@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amiri</h1>
-<!-- <h3 align="left">- 3rd-year Bachelor's student at ITMO University, specializing in Computer Science and Programming.<br> -->
   <h3></h3> Residence: Based in the beautiful city of Saint Petersburg, Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirymax&label=Profile%20views&color=0e75b6&style=flat" alt="amirymax" /> </p>
@@ -8,19 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amirymax" target="blank"><img src="https://img.shields.io/twitter/follow/amirymax?logo=twitter&style=for-the-badge" alt="amirymax" /></a> </p>
 
-- 🔭 I’m currently working on [BeBetter](https://github.com/amirymax/BeBetter), my pet project about AI
-
-- 🌱 I’m currently learning **Machine Learning on Python, JavaScript for University**
-
-- 📝 I regularly write articles on [Amirilifee](https://t.me/amirilifee)
-
-- 💬 Ask me about **Python, Aiogram, Leetcode**
+- 🔭 I’m currently working on [BeBetter](https://github.com/amirymax/BeBetter)
 
 - 📫 How to reach me **amirymax@mail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1JqcSzMpzXB_tuOQxm18yteBZ8wHshivS/view?usp=sharing)
-
-- ⚡ Fun fact **I am a blogger and Stand Up Comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
